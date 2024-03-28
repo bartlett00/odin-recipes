@@ -1,1 +1,2 @@
-# odin-recipes
+The purpose of this first project is to apply all of the HTML knowledge presented in the introductory course for The Odin Project up to this point.
+The project consists of a basic website with a short list of recipes.
